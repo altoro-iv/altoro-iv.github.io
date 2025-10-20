@@ -65,6 +65,5 @@ The site includes:
 If you’d like to connect or learn more about my work, visit my GitHub profile or reach out via LinkedIn.
 
 - **GitHub:** [@altoro-iv](https://github.com/altoro-iv)   
-- **LinkedIn:** [@Miguel Altoro](www.linkedin.com/in/miguel-altoro)
-- 
+- **LinkedIn:** [linkedin.com/in/miguel-altoro](https://www.linkedin.com/in/miguel-altoro)
 ---
