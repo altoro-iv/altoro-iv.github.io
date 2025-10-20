@@ -15,4 +15,3 @@ title: Downloads
 | [Milestone_Three_Altoro.docx](/files/Milestone_Three_Altoro.docx) | Algorithms & Data Structures narrative |
 | [Milestone_Four_Altoro.docx](/files/Milestone_Four_Altoro.docx) | Databases narrative |
 | [Self_Assessment_Altoro.docx](/files/Self_Assessment_Altoro.docx) | Professional self-assessment |
-| [Code_Review_Altoro.mp4](/files/Code_Review_Altoro.mp4) | Informal code review video |
