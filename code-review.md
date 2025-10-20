@@ -9,7 +9,7 @@ This informal code review provides a walkthrough of my original artifacts, ident
 
 ## ▶ Watch the Review Video
 
-[Download Code Review Video (.mp4)](/files/Code_Review_Altoro.mp4)
+https://youtu.be/G4zlnQpGn1c 
 
 <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/G4zlnQpGn1c?si=sbm6X_N2gKhaMsZ0"
