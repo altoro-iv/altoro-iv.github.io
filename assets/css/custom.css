@@ -1,0 +1,135 @@
+/* ===============================
+   Miguel Altoro - Custom CSS
+   For GitHub Pages (jekyll-theme-minimal)
+   =============================== */
+
+/* 🌐 GENERAL STYLES */
+body {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #222;
+  background-color: #fafafa;
+  line-height: 1.6;
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* 🧭 HEADER & TITLE */
+h1, h2, h3, h4, h5 {
+  color: #1a1a1a;
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2em;
+  border-bottom: 2px solid #0078d7;
+  padding-bottom: 5px;
+}
+
+h2 {
+  color: #0078d7;
+  font-size: 1.5em;
+  border-left: 4px solid #0078d7;
+  padding-left: 8px;
+}
+
+/* 📎 LINKS */
+a {
+  color: #0078d7;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #005999;
+  text-decoration: underline;
+}
+
+/* 🧱 CODE BLOCKS */
+pre, code {
+  background-color: #f5f5f5;
+  padding: 6px 10px;
+  border-radius: 5px;
+  font-family: "Fira Code", Consolas, monospace;
+  font-size: 0.95em;
+}
+
+pre {
+  overflow-x: auto;
+  border-left: 4px solid #0078d7;
+}
+
+/* 📋 TABLES */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 0.95em;
+  background-color: #fff;
+}
+
+table th {
+  background-color: #0078d7;
+  color: #fff;
+  text-align: left;
+  padding: 10px;
+}
+
+table td {
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* 🧾 BLOCKQUOTES */
+blockquote {
+  border-left: 4px solid #0078d7;
+  background-color: #f0f8ff;
+  padding: 10px 15px;
+  margin: 1em 0;
+  color: #333;
+}
+
+/* 📦 CONTAINERS / CARDS */
+.container {
+  background-color: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  margin: 20px 0;
+}
+
+/* 📱 RESPONSIVE DESIGN */
+@media screen and (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  table {
+    font-size: 0.9em;
+  }
+}
+
+/* 🪶 FOOTER */
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+  border-top: 1px solid #ddd;
+  padding-top: 15px;
+  margin-top: 30px;
+}
