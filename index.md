@@ -34,7 +34,7 @@ Throughout my projects, I applied secure-coding principles from **CS-405**, incl
 My short-term goal is to transition into a **backend or software developer role with Kohl’s**, where I currently work in operations. Long term, I plan to specialize in **cloud-based systems** using AWS and Spring Boot while pursuing certifications in **AWS Cloud Practitioner** and **Java Programming**.
 
 ### 🧭 Conclusion
-This ePortfolio shows how I have grown into a capable, security-minded, and detail-oriented developer. Each artifact shows measurable improvement in design quality, efficiency, and professional communication—evidence that I am prepared to contribute effectively to any modern software development team.
+This ePortfolio shows how I have grown into a capable, security-minded, and detail-oriented developer. Each artifact shows measurable improvement in design quality, efficiency, and professional communication which shows that I am prepared to contribute effectively to any modern software development team.
 
 📄 [Download Full Professional Self-Assessment (.docx)](/files/Altoro_Self_Assessment.docx)
 
